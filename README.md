@@ -11,4 +11,4 @@ A small app that allows travellers to create and search for travel advisories
 - Back-end: node.js, MongoDB for storing data after retrieving from external data source (JSON), GraphQL for data queries
 
 ## Demo
-![Travel Alert Demo](https://github.com/alvinnguyen0312/traveller-alerts/blob/master/travel-alert-demo.gif)
+![Travel Alert Demo]()
